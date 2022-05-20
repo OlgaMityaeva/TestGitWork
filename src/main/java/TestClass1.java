@@ -3,5 +3,6 @@ public class TestClass1 {
         System.out.println("Hello World");
         System.out.println("ggg");
         String f = "lll";
+        String k = "zzz";
     }
 }
